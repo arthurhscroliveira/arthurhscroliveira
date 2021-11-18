@@ -1,4 +1,4 @@
-### Hi there🤙
+### Faaala🤙
 
 ## 🐉Olá! Sou o Arthur Oliveira
 
@@ -26,6 +26,5 @@
 </div>  
   
   <br>
-  ##
   
   <h2>Obrigado pela visita!</h2>       
