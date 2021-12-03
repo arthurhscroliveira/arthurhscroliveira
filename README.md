@@ -1,6 +1,6 @@
 ### Faaala🤙
 
-## 🐉Olá! Sou o Arthur Oliveira
+## 🐉Olá! Eu Sou o Arthur!
 
 ✍Estudante de Técnico em Informatica na UNIVAP
 
