@@ -7,8 +7,8 @@
 <br>
 
 ## 🚀 Últimos projetos upados
-- [FreeCodeCamp - Survey Form](https://github.com/arthurhscroliveira/Freecodecamp-Projects/tree/main/Survey%20form)
-- [FreeCodeCamp - Tribute Pages](https://github.com/arthurhscroliveira/Freecodecamp-Projects/tree/main/Tribute%20Page)
+- [FreeCodeCamp - Survey Form](https://arthurhscroliveira.github.io/Freecodecamp-Projects/Responsive%20Web%20Design/Survey%20form/survey-form.html)
+- [FreeCodeCamp - Tribute Pages](https://arthurhscroliveira.github.io/Freecodecamp-Projects/Responsive%20Web%20Design/Tribute%20Page/tribute-page.html)
 
 
 <br>
