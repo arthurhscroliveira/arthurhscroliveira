@@ -5,8 +5,6 @@
 ✍Estudante de Técnico em Informatica na UNIVAP
 
 <br>
-<br>
-<br>
 
 ## 🚀 Últimos projetos upados
 - [FreeCodeCamp - Survey Form](https://github.com/arthurhscroliveira/Freecodecamp-Projects/tree/main/Survey%20form)
